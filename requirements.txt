@@ -1,0 +1,10 @@
+django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+flake8
+pendulum
+psycopg2-binary
+sentry-sdk
+uwsgi
+wheel
